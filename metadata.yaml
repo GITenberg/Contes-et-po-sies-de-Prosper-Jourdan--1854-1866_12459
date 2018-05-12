@@ -1,11 +1,16 @@
 _repo: Contes-et-po-sies-de-Prosper-Jourdan--1854-1866_12459
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jourdan, Prosper
     gutenberg_agent_id: '4384'
     url: http://www.gutenberg.org/2009/agents/4384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12459#Contes-et-po-sies-de-Prosper-Jourdan--1854-1866
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
